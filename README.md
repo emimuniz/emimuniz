@@ -4,7 +4,7 @@
 **About me**
 
 - I'm Emillyn
-- - :house_with_garden: I’m from Brazil.
+- :house_with_garden: I’m from Brazil.
 - 💼 Software Engineer at [Creditas](https://www.creditas.com/)
 - :books: I’m currently learning everything.
 
