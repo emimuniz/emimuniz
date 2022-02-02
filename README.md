@@ -1,27 +1,41 @@
 # Welcome!
+<br />
 
- 
+**About me**
 
-## I'm Emillyn
+- I'm Emillyn
+- - :house_with_garden: I’m from Brazil.
+- 💼 Software Engineer at [Creditas](https://www.creditas.com/)
+- :books: I’m currently learning everything.
 
- 
 
-:computer: I'm Software Enginner!
 
-:house_with_garden: I’m from Brazil.
+**Languages and Tools:**  
 
-:books: I’m currently learning everything.
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
 
- 
+| ![Emillyn GitHub stats](https://github-readme-stats.vercel.app/api?username=emimuniz&show_icons=true&theme=radical)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emimuniz&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+| ------------- | ------------- |
 
-## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)](https://www.linkedin.com/in/emimuniz/)
 
 - Thanks for visiting.
 
 - Enjoy it!! o/
+
+
+<br />
+<br />
+
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Emillyn Muniz | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="right" alt="Emillyn Muniz | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
+
