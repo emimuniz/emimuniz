@@ -29,7 +29,7 @@
 
 **Connect with me**<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="20">
 
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="20">](https://in.linkedin.com/in/TheDudeThatCode)
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="20">](https://in.linkedin.com/in/emimuniz)
 
 </a>
 
