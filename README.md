@@ -1,9 +1,11 @@
-# Welcome!
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello!!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
 <br />
 
 **About me**
 
-- I'm Emillyn
+- I'm Emillyn 
 - :house_with_garden: I’m from Brazil.
 - 💼 Software Engineer at [Creditas](https://www.creditas.com/)
 - :books: I’m currently learning everything.
