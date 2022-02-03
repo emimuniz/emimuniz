@@ -25,19 +25,11 @@
 | ------------- | ------------- |
 
 
-
-- Thanks for visiting.
-
-- Enjoy it!! o/
-
-
-<br />
 <br />
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Emillyn Muniz | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Emillyn Muniz | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+**Connect with me**<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="20">
+
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="20">](https://in.linkedin.com/in/TheDudeThatCode)
+
 </a>
 
