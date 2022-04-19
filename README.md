@@ -7,7 +7,7 @@
 
 - I'm Emillyn 
 - :house_with_garden: I’m from Brazil.
-- 💼 Software Engineer at [Creditas](https://www.creditas.com/)
+- 💼 Software Engineer at Nubank
 - :books: I’m currently learning everything.
 
 
